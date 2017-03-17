@@ -1,0 +1,10 @@
+{
+    "loadArray":
+    [
+        "name",
+        "birthdate",
+        "age",
+        "balance"
+    ]
+
+}

@@ -1,0 +1,19 @@
+{
+  "sql"	: "select * from ygyeb where jyrq=20170309",
+  "name": "ygyeb",
+  "columns": 5,
+  "column_names": 
+  [
+    "name",
+    "org_num",
+    "birth_date",
+    "age",
+    "balance"
+  ],
+  "column_types":
+  [ "varchar(10)","char(5)","date","smallint","decimal(15,2)" ],
+  "column_lengths":
+  [ 10,5,8,12,17 ],
+  "column_offsets":
+  [1,11,16,24,36 ]
+}

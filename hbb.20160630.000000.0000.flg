@@ -1,0 +1,37 @@
+hbb.20160630.000000.0000.dat 2831 19 2016-07-01 00:18:15
+
+FILENAME=hbb.20160630.000000.0000.dat.gz
+
+FILESIZE=853
+
+ROWCOUNT=19
+
+CREATEDATETIME=2016-07-01 00:18:15
+
+SQL=select * from csk:hbb
+
+DBTYPE=IBM Informix Dynamic Server Version 11.70.FC8W1XO
+
+ROWLENGTH=148
+
+COLUMNCOUNT=16
+
+COLUMNDESCRIPTION=
+1$$hbzl$$char(2)$$(1,2)
+2$$hbzwmc$$char(14)$$(3,16)
+3$$hbywmc$$char(21)$$(17,37)
+4$$zbzwmc$$char(12)$$(38,49)
+5$$zbywmc$$char(12)$$(50,61)
+6$$zfbzwm$$char(12)$$(62,73)
+7$$zfbywm$$char(12)$$(74,85)
+8$$cfbzwm$$char(12)$$(86,97)
+9$$cfbywm$$char(12)$$(98,109)
+10$$gnhbfh$$char(3)$$(110,112)
+11$$gjhbfh$$char(3)$$(113,115)
+12$$zxhbdw$$decimal(5,2)$$(116,122)
+13$$jcjxts$$smallint$$(123,134)
+14$$bjfs$$char(1)$$(135,135)
+15$$yxjb$$smallint$$(136,147)
+16$$jlzt$$char(1)$$(148,148)
+
+

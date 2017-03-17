@@ -1,0 +1,53 @@
+wsyhhkdjb.20160630.000000.0000.dat 43741718648 67606984 2016-07-01 00:13:54
+
+FILENAME=wsyhhkdjb.20160630.000000.0000.dat.gz
+
+FILESIZE=4740456308
+
+ROWCOUNT=67606984
+
+CREATEDATETIME=2016-07-01 00:13:54
+
+SQL=select jyrq, jysj, jydqdh, jyjgdh, jygy, jydm, gylsh, khdqdh, khjgdh, zhdh, pzdh, jyje, sxf, khmc, fbhm, dz, dfdqdh, dfjgdh, skdwzh, skdwmc, sbhm, dfdz, hkyt, pjzl, sffyzl, dycs, bz, "                    " as sfmm, "                    " as ffmm, ylxz, wydjbbj, jlzt from ywk:wsyhhkdjb
+
+DBTYPE=IBM Informix Dynamic Server Version 11.70.FC8W1XO
+
+ROWLENGTH=646
+
+COLUMNCOUNT=32
+
+COLUMNDESCRIPTION=
+1$$jyrq$$date$$(1,8)
+2$$jysj$$char(6)$$(9,14)
+3$$jydqdh$$char(2)$$(15,16)
+4$$jyjgdh$$char(3)$$(17,19)
+5$$jygy$$char(4)$$(20,23)
+6$$jydm$$char(4)$$(24,27)
+7$$gylsh$$char(8)$$(28,35)
+8$$khdqdh$$char(2)$$(36,37)
+9$$khjgdh$$char(3)$$(38,40)
+10$$zhdh$$char(18)$$(41,58)
+11$$pzdh$$char(9)$$(59,67)
+12$$jyje$$decimal(15,2)$$(68,84)
+13$$sxf$$decimal(15,2)$$(85,101)
+14$$khmc$$varchar(60)$$(102,161)
+15$$fbhm$$varchar(60)$$(162,221)
+16$$dz$$varchar(60)$$(222,281)
+17$$dfdqdh$$char(2)$$(282,283)
+18$$dfjgdh$$char(3)$$(284,286)
+19$$skdwzh$$char(32)$$(287,318)
+20$$skdwmc$$varchar(60)$$(319,378)
+21$$sbhm$$varchar(60)$$(379,438)
+22$$dfdz$$varchar(60)$$(439,498)
+23$$hkyt$$char(30)$$(499,528)
+24$$pjzl$$char(1)$$(529,529)
+25$$sffyzl$$char(2)$$(530,531)
+26$$dycs$$smallint$$(532,543)
+27$$bz$$varchar(60)$$(544,603)
+28$$sfmm$$char(20)$$(604,623)
+29$$ffmm$$char(20)$$(624,643)
+30$$ylxz$$char(1)$$(644,644)
+31$$wydjbbj$$char(1)$$(645,645)
+32$$jlzt$$char(1)$$(646,646)
+
+
